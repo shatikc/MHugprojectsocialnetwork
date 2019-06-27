@@ -2,6 +2,7 @@ package com.eligolts.mishpahug.projectsocialnetwork.url;
 
 public interface UrlConstants {
         //Post requests:
+        String testrequest = "/test";
         String eventListInProgress = "/event/allprogresslist";
         String registrationUser = "/user/registration";
         String loginUser = "/user/login";
