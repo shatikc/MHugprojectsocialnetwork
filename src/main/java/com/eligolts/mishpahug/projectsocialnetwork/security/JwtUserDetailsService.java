@@ -1,4 +1,4 @@
-package com.eligolts.mishpahug.projectsocialnetwork;
+package com.eligolts.mishpahug.projectsocialnetwork.security;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
