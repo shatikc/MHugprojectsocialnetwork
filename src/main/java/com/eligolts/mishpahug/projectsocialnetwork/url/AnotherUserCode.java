@@ -1,3 +1,5 @@
+package com.eligolts.mishpahug.projectsocialnetwork.url;
+
 public class AnotherUserCode {
 
 private final String message = "Hello! What's up?";
