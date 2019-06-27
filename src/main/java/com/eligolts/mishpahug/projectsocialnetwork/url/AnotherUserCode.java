@@ -1,6 +1,6 @@
 public class AnotherUserCode {
 
-private final String message = "Hello! What's up?"
+private final String message = "Hello! What's up?";
 
 public void printMessage(){
     System.out.println(message);
